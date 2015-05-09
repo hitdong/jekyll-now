@@ -1,6 +1,10 @@
 ---
 layout: post
 title: <<用系统工作>>读书笔记
+categories:
+- 读书笔记
+tags:
+- System
 ---
 
 豆瓣链接: http://book.douban.com/subject/25894706/
